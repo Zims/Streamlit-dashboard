@@ -6,7 +6,7 @@ data = {
   'Series_2': [10, 30, 40, 100, 250]
 }
 
-df = pandas.DateFrame(data)
+df = pandas.DataFrame(data)
 
 
 st.title("1app")
